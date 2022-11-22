@@ -1,7 +1,7 @@
 0x1D. C - Binary trees
 ======================
 
--   
+
 -   Weight: 5
 
 Resources
